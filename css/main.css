@@ -1,0 +1,72 @@
+@import "reset.css";
+@import "all.min.css";
+
+.fs-12{font-size: 12px;}
+.fs-14{font-size: 14px;}
+.fs-16{font-size: 16px;}
+.fs-18{font-size: 18px;}
+.fs-20{font-size: 20px;}
+.fs-30{font-size: 30px;}
+.fs-50{font-size: 50px;}
+.fc-sky{color: deepskyblue;}
+
+.text-center{text-align: center;}
+.text-right{text-align: right;}
+.text-left{text-align: left;}
+.text-justify{text-align: justify;}
+
+.pa0{padding: 0;}
+.pa{padding: 25px;}
+.pale-10{padding-left: 10px;}
+.pale{padding-left: 20px;}
+.pale-2x{padding-left: 40px;}
+.pari-10{padding-right: 10px;}
+.pari{padding-right: 20px;}
+.pari-2x{padding-right: 40px;}
+.patop-10{padding-top: 10px;}
+.patop{padding-top: 25px;}
+.patop-2x{padding-top: 40px;}
+.pabo-10{padding-bottom: 10px;}
+.pabo{padding-bottom: 25px;}
+.pabo-2x{padding-bottom: 40px;}
+
+.ma0{margin: 0;}
+.ma{margin: 25px;}
+.male-10{margin-left: 10px;}
+.male{margin-left: 20px;}
+.male-2x{margin-left: 40px;}
+.mari-10{margin-right: 10px;}
+.mari{margin-right: 20px;}
+.mari-2x{margin-right: 40px;}
+.matop-10{margin-top: 10px;}
+.matop{margin-top: 25px;}
+.matop-2x{margin-top: 40px;}
+.mabo-10{margin-bottom: 10px;}
+.mabo{margin-bottom: 25px;}
+.mabo-2x{margin-bottom: 40px;}
+.maau{margin: 0 auto;}
+
+.w100{width: 100%;}
+.w-768{max-width: 768px;}
+.w-990{max-width: 990px;}
+
+.borderbo{border-bottom: 1px solid #777;}
+.border{border: 1px solid #777;}
+
+.flex{display: flex;}
+.juco-center{justify-content: center;}
+.juco-spar{justify-content: space-around;}
+
+.posi-re{position: relative;}
+.posi-ab{position: absolute;}
+
+.my{border: 1px solid red;}
+.dis-no{display: none;}
+.dis-inbl{display: inline-block;}
+.dis-bl{display: block;}
+.box{box-sizing: border-box;}
+.cupo:hover{cursor: pointer;}
+
+/* index css S */
+.todayWord{}
+/* index css E */
